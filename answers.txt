@@ -1,0 +1,4 @@
+What is the difference between a merge and a rebase?
+
+Merge -> Merges changes to a branch into the original branch, essentially combining the edited branch with the original. It also preserves the history of the separate branches.
+Rebase -> Moves changes from one branch to another, instead of combining two branches into one. It does not preserve the history of the separate branches and instead creates a linear one, which can reduce clutter.
